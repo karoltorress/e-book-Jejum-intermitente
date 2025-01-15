@@ -7,16 +7,14 @@ E-book Jejum intermitente
 
  > ℹ️ **NOTE:** Este é o repositório desenvolvido durante o curso no qual participei na plataforma da [DIO](https://dio.me)
 
-Projeto com o objetivo de gerar um ebook digital com as facilidades das ferramentas de IA. todos os prompts
-seguem abaixo.
+Projeto com o objetivo de gerar um ebook digital com as facilidades das ferramentas de IA. 
 
-<a href="https://github.com/felipeAguiarCode/prompts-recipe-to-create-a-ebook/blob/main/output/ebook%20-%20css%20jedi%20output.pdf" title="View PDF now"> 📕Clique aqui para ler</a>
+<a href="https://https://github.com/karoltorress/e-book-Jejum-intermitente" title="View PDF now"> 📕Clique aqui para ler</a>
 
 ## 💻 Tecnologias utilizadas no projeto
 
 - [ChatGPT](https://chat.openai.com/) 
 - [Canva](https://www.canva.com)
-- [PowerPoint](https://www.microsoft.com/en/microsoft-365/powerpoint)
 
 ## 🧠 Prompts
 
@@ -29,11 +27,13 @@ ChatGPT：
 | conteúdo | Faça um texto para um ebook sobre jejum intermitente, com foco em auto cuidado listando os principais tipos de jejum {REGRAS} Explique sempre de uma maneira simples para quem está iniciando nessa prática, deixe o texto enxuto e um título sugestivo por tópico |
 
 
-Midjourney：
+Canva：
 
 |  Ação  | prompt                                                                                 |
 | :----: | -------------------------------------------------------------------------------------- |
-| título | Jejum intermitente: Um guia prático para iniciantes |
+| título | Crie uma imagem de um prato de comida saudável                                         |
+| título | Crie uma imagem de uma pessoa se recusando a comer, com as mão em posição de não       |
+| título | Crie uma imagem de um prato vazio fazendo alusão a uma dieta restritiva                |
 
 ## ✨ Features
 
